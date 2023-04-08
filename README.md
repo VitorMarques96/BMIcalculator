@@ -1,2 +1,2 @@
 # BMIcalculator
-Body Mass Index calculator - version 1.0
+Body Mass Index calculator - version 2.0
